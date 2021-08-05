@@ -1,0 +1,6 @@
+//Variables
+var x = 8
+var y = 2
+
+//log
+console.log(x + y)

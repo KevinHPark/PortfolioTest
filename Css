@@ -1,0 +1,71 @@
+body {
+    background-image: linear-gradient(#253854 20%, #bcbcbd 100%);
+    min-height: 30rem;
+	position:relative;
+    overflow:visible;
+  }
+.Test {
+    font-family:'Times New Roman', Times, serif cursive;
+    color:white;
+    font-size: 3rem;
+    font-family: fantasy;
+    letter-spacing: 0.1rem;
+	text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.66);
+    text-align: center;
+}
+.KewlFont {
+    font-family:Arial, Helvetica, sans-serif cursive;
+	font-size: 2rem;
+	color: white;
+	letter-spacing: 0.1rem;
+	text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.66);
+    text-align: center;
+}
+.KewlFont2 {
+    font-family:Arial, Helvetica, sans-serif cursive;
+	font-size: 3rem;
+	color: white;
+	letter-spacing: .5rem;
+	text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.66);
+    text-align: center;
+    
+}
+.Photo {
+    align-content: center;
+}
+.FontTest{
+    font-family: 'Corben', cursive;
+    font-size: 3rem;
+    color:white;
+    text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.66);
+    text-align: center;
+}
+li {
+    font-family: 'Corben', cursive;
+    font-size: 1rem;
+    color:white;
+    text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.66);
+    text-align: center; 
+}
+p {
+    font-family: 'Corben', cursive;
+    font-size: 1rem;
+    color:white;
+    text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.66);
+    text-align: center; 
+}
+video {
+    align-content: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.vide {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
